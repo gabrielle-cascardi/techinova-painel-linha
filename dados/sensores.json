@@ -28,5 +28,11 @@
     "descricao": "Vibracao do eixo principal",
     "valor": 68.0,
     "unidade": "F"
+  },
+    {
+    "codigo": "S-308",
+    "descricao": "Novo sensor solicitado na atividade",
+    "valor": 61.0,
+    "unidade": "F"
   }
 ]
