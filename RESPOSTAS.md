@@ -1,24 +1,24 @@
 # Respostas do LAB 01
 
-Nome:
-Matricula:
-Dupla (M2 em diante):
+Nome: Gabrielle Aparecida Cascardi Giroldo
+Matricula: 26128308
+Dupla (M2 em diante): Evelyn Victoria Araujo dos Santos
 
 ---
 
 ## M2 - Quem quebrou o painel
 
-**Hash curto do commit que introduziu o erro:**
+**Hash curto do commit que introduziu o erro:** 01ef93bf
 
-**Autor:**
+**Autor:** Tarcisio Melo
 
-**Data:**
+**Data:** 15/06/2026
 
-**Linha alterada (antes e depois):**
+**Linha alterada (antes e depois):** -  return (leitura - 32) * 5 / 9; +  return leitura * 9 / 5 + 32;
 
 ```
-antes:
-depois:
+antes: return (leitura - 32) * 5 / 9;
+depois: return leitura * 9 / 5 + 32;
 ```
 
 ---
