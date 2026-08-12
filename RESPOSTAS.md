@@ -25,10 +25,10 @@ depois: return leitura * 9 / 5 + 32;
 
 ## M3 - O segredo vazado
 
-**O que voce esperava ver no `git status` e o que apareceu:**
+**O que voce esperava ver no `git status` e o que apareceu:** Esperava que o "credenciais.env" fosse aparecer como ignorado no git status, mas ele não apareceu nem como ignorado e nem como modificado.
 
 **Depois do push, alguem que clonar o repositorio ainda consegue ler a chave?
-Responda em duas linhas, explicando o motivo:**
+Responda em duas linhas, explicando o motivo:** Sim, consegue ler a chave acessando o histórico de commits. Rodar "git rm --cached" faz com que o Git pare de rastrear o arquivo A PARTIR DE AGORA, não "esconde" o que já existia anteriormente.
 
 ---
 
