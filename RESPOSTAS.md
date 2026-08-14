@@ -36,13 +36,17 @@ Responda em duas linhas, explicando o motivo:** Sim, consegue ler a chave acessa
 
 **O que significavam os marcadores que apareceram dentro do arquivo:**
 
-- `<<<<<<<` :
-- `=======` :
-- `>>>>>>>` :
+- `<<<<<<< HEAD`: Começa a versão que *já estava na branch atual* (main, nesse caso a alteração da pessoa A).
+
+- `=======`: Separa as duas versões conflitantes.
+
+- `>>>>>>> painel-e`: Termina a versão que veio da *segunda branch* (nesse caso painel-e, da Pessoa B).
 
 **Qual pedaco veio de quem, e qual titulo voces decidiram manter:**
 
----
+- '<<<<<<< HEAD': Veio da Pessoa A.
+- '>>>>>>> painel-e': Veio da Pessoa B.
+- 'Título mantido': Painel-e.
 
 ## Casa - Incidente na linha 3
 
