@@ -10,4 +10,4 @@ Abra o arquivo `index.html` no navegador. Nao precisa de servidor web.
 
 <!-- Escreva aqui seu nome completo e sua matricula -->
 
-Gabrielle Aparecida Cascardi Giroldo / 26128308
+Evelyn Victoria Araújo dos Santos e Gabrielle Aparecida Cascardi Giroldo (matrícula 26128308)
